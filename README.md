@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋, I'm Qosimjon  
 🚀 Passionate Mobile Developer | Kotlin & Flutter Enthusiast  
 
@@ -5,9 +7,9 @@
 
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **Flutter** & **Advanced Android (Kotlin)**  
-- 📫 Reach me on [Telegram](https://t.me/your_username)  
+- 📫 Reach me on [Telegram](https://t.me/nosirjonov_v)  
 - 📧 Email: **nosirjonov.dev@gmail.com**  
-- ⚡ Fun fact: *Code + Coffee = Perfect Combo* ☕  
+- ⚡ Fun fact: *World with Cofee = Perfect Combo* ☕  
 
 ---
 
@@ -38,3 +40,5 @@
 ---
 
 ⭐️ From [nosirjonov-dev](https://github.com/nosirjonov-dev)
+
+</div>
