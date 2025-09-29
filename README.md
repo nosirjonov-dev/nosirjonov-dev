@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Flutter** & **Advanced Android (Kotlin)**  
 - 📫 Reach me on [Telegram](https://t.me/nosirjonov_v)  
 - 📧 Email: **nosirjonov.dev@gmail.com**  
-- ⚡ Fun fact: *World with Cofee = Perfect Combo* ☕  
+- ⚡ Fun fact: *World with Code = Perfect Couple* 
 
 ---
 
@@ -33,8 +33,7 @@
 ### ⚙️ Tools  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> 
 </p>
 
