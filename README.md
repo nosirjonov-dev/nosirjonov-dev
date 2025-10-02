@@ -36,7 +36,7 @@
      alt="Git" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
      alt="GitHub" width="40" height="40" 
-     style="background-color:white; border-radius:8px; padding:4px;"/>
+     style="filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
      alt="IntelliJ IDEA" width="40" height="40"/> 
 </p>
