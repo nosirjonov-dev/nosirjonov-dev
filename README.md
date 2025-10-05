@@ -34,12 +34,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
      alt="Git" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-     alt="GitHub" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" 
+     alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
      alt="IntelliJ IDEA" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" 
-     alt="Notion" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" 
+     alt="Notion" width="40" height="40" style="filter: invert(1);"/>
 </p>
 
 ---
