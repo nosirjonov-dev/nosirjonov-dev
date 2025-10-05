@@ -39,6 +39,9 @@
      style="filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
      alt="IntelliJ IDEA" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" 
+     alt="Notion" width="40" height="40"
+    style="filter: invert(1);"/>
 </p>
 
 ---
