@@ -34,8 +34,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
      alt="Git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/tools/github-light.svg" 
-     alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+     alt="GitHub" width="40" height="40" style="filter: invert(1) brightness(200%);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
      alt="IntelliJ IDEA" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" 
