@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **Flutter** & **Advanced Android (Kotlin)**  
-- 📫 Reach me on [Telegram](https://t.me/nosirjonov_v)  
+- 📫 Reach me on [Telegram](https://t.me/nosirjonov_v)
 - 📧 Email: **nosirjonov.dev@gmail.com**  
 - ⚡ Fun fact: *World with Code = Perfect Couple* 
 
@@ -43,6 +43,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" 
      alt="Notion" width="40" height="40" style="filter: invert(1);"/>
 </p>
+
+---
+
+## 🚀 Startup Ideas & Projects I'm Exploring
+
+> Passionate about building innovative apps and exploring startup opportunities.  
+> Currently exploring and learning by working on real-world project ideas:
+
+### 💡 Edu Finder
+- **Status:** Idea / Research 💡  
+- Goal: Connect users with education centers and help them find suitable courses  
+- Objective: Build a platform where learning centers can promote themselves and users can discover the best courses  
+- **Tech (planned):** Flutter, Firebase  
 
 ---
 
