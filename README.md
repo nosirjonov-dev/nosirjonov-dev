@@ -51,7 +51,7 @@
 > Passionate about building innovative apps and exploring startup opportunities.  
 > Currently exploring and learning by working on real-world project ideas:
 
-### 💡 Edu Finder
+### 💡 Findex
 - **Status:** Idea / Research 💡  
 - Goal: Connect users with education centers and help them find suitable courses  
 - Objective: Build a platform where learning centers can promote themselves and users can discover the best courses  
