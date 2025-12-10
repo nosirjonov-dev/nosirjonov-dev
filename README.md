@@ -53,7 +53,7 @@
 
 ### 💡 Findex
 - **Status:** Idea / Research 💡  
-- Goal: Connect users with education centers and help them find suitable courses  
+- Goal: Connect users with education centers and help them find suitable courses and continue 
 - Objective: Build a platform where learning centers can promote themselves and users can discover the best courses  
 - **Tech (planned):** Flutter, Firebase
    
