@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **Flutter** & **Advanced Android (Kotlin)**  
-- 📫 Reach me on [Telegram](https://t.me/nosirjonov_v) and [Instagram](https://www.instagram.com/nosirjonov_v/)
+- 📫 Reach me on [Telegram](https://t.me/nosirjonov_v) & [Instagram](https://www.instagram.com/nosirjonov_v/) & [X](https://x.com/nosirjonov_v/)
 - 📧 Email: **nosirjonov.dev@gmail.com**  
 - ⚡ Fun fact: *World with Code = Perfect Couple* 
 
