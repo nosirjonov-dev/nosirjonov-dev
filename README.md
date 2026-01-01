@@ -70,24 +70,24 @@
 ## ⚡ Connect with me
 
 <p align="center">
-  <a href="https://t.me/nosirjonov_v" target="_blank">
+  <a href="https://t.me/nosirjonov_v" target="_blank" style="text-decoration: none; border-bottom: none;">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-  <a href="https://github.com/nosirjonov-dev" target="_blank">
+  <a href="https://github.com/nosirjonov-dev" target="_blank" style="text-decoration: none; border-bottom: none;">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/nosirjonov-dev-434b3b371/" target="_blank">
+  <a href="https://www.linkedin.com/in/nosirjonov-dev-434b3b371/" target="_blank" style="text-decoration: none; border-bottom: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://www.instagram.com/nosirjonov_v/" target="_blank">
+  <a href="https://www.instagram.com/nosirjonov_v/" target="_blank" style="text-decoration: none; border-bottom: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://x.com/nosirjonov_v" target="_blank">
-    <img src="https://img.shields.io/badge/X1-000000?style=for-the-badge&logo=x2&logoColor=white" />
+  <a href="https://x.com/nosirjonov_v" target="_blank" style="text-decoration: none; border-bottom: none;">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
