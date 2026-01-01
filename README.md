@@ -87,7 +87,7 @@
   </a>
 
   <a href="https://x.com/nosirjonov_v" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X1-000000?style=for-the-badge&logo=x2&logoColor=white" />
   </a>
 </p>
 
