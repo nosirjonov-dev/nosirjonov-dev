@@ -7,8 +7,6 @@
 
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **Flutter** & **Advanced Android (Kotlin)**  
-- 📫 Reach me on [Telegram](https://t.me/nosirjonov_v) || [Instagram](https://www.instagram.com/nosirjonov_v/) || [X](https://x.com/nosirjonov_v/)
-- 📧 Email: **nosirjonov.dev@gmail.com**  
 - ⚡ Fun fact: *World with Code = Perfect Couple* 
 
 ---
@@ -70,26 +68,34 @@
 ## ⚡ Connect with me
 
 <p align="center">
-  <a href="https://t.me/nosirjonov_v" target="_blank" style="text-decoration: none; border-bottom: none;">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/nosirjonov-dev" target="_blank" style="text-decoration: none; border-bottom: none;">
+  <!-- Professional identity -->
+  <a href="https://github.com/nosirjonov-dev" target="_blank" style="text-decoration:none;border-bottom:none;">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/nosirjonov-dev-434b3b371/" target="_blank" style="text-decoration: none; border-bottom: none;">
+  <a href="https://www.linkedin.com/in/nosirjonov-dev-434b3b371/" target="_blank" style="text-decoration:none;border-bottom:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://www.instagram.com/nosirjonov_v/" target="_blank" style="text-decoration: none; border-bottom: none;">
+
+  <!-- Direct contact -->
+  <a href="mailto:nosirjonov.dev@gmail.com" style="text-decoration:none;border-bottom:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/nosirjonov_v" target="_blank" style="text-decoration:none;border-bottom:none;">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <!-- Personal / content -->
+  <a href="https://www.instagram.com/nosirjonov_v/" target="_blank" style="text-decoration:none;border-bottom:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://x.com/nosirjonov_v" target="_blank" style="text-decoration: none; border-bottom: none;">
+  <a href="https://x.com/nosirjonov_v" target="_blank" style="text-decoration:none;border-bottom:none;">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
-
 </div>
+
+---
