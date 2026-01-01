@@ -65,6 +65,23 @@
 
 ---
 
-⭐️ From [nosirjonov-dev](https://github.com/nosirjonov-dev)
+---
+
+## ⚡ Connect with me
+
+<p align="center">
+  <a href="https://t.me/nosirjonov_v" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/nosirjonov-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 </div>
