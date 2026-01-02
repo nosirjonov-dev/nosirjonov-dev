@@ -54,14 +54,6 @@
 - Goal: Connect users with education centers and help them find suitable courses and continue 
 - Objective: Build a platform where learning centers can promote themselves and users can discover the best courses  
 - **Tech (planned):** Flutter, Firebase
-   
-### 💡 Market Uz
-- **Status:** Idea / Research 💡  
-- Goal: Simplify accounting for small shops and markets  
-- Objective: Start with managing debt ledgers and expand to a full store management system in the future  
-- **Tech (planned):** Flutter (Dart), SQLite / Firebase
-
----
 
 ---
 
