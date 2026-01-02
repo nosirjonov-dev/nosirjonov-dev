@@ -71,7 +71,7 @@
 
   <!-- Direct contact -->
   <a href="mailto:nosirjonov.dev@gmail.com" style="text-decoration:none;border-bottom:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://t.me/nosirjonov_v" target="_blank" style="text-decoration:none;border-bottom:none;">
