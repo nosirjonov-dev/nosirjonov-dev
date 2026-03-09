@@ -37,6 +37,8 @@
      alt="Git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" 
      alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+     alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
      alt="IntelliJ IDEA" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" 
