@@ -1,102 +1,69 @@
 <div align="center">
 
 # Qosimjon 🚀  
-### Mobile Product Engineer | Flutter • Kotlin • Startup Builder  
 
-Building real-world products, not just apps.
+**Mobile Product Engineer**  
+Flutter • Kotlin • Startup Builder  
+
+💡 Building real products, not just code.
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ⚡ What I Do
 
-I’m a mobile developer focused on building scalable, real-world products.
-
-I don’t just write code — I build systems that solve real problems.
-
-**My focus:**
-- Clean & scalable architecture  
-- Product-driven development  
-- Performance and maintainability  
-- Building products people actually use  
+- 📱 Build mobile apps (Flutter / Kotlin)  
+- 🧠 Design scalable architectures  
+- 🚀 Turn ideas into real products  
+- 📈 Focus on performance & usability  
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Current Focus
 
 ### ⚽ ArenaGo
 
-> A B2B SaaS platform for football stadium owners
+**B2B SaaS for football stadium management**
 
-- 🧩 Problem: Stadium owners struggle with managing bookings, customers, and operations manually  
-- 💡 Solution: A centralized system to manage bookings, analytics, and users in one place  
-- 📈 Goal: Turn stadium management into a scalable digital business system  
+🧩 Problem  
+Manual booking & disorganized operations  
 
-**What ArenaGo does:**
-- Booking & scheduling management  
-- Owner dashboard & analytics  
-- User management system  
-- Scalable SaaS architecture  
+💡 Solution  
+All-in-one system for:
+- Bookings  
+- Analytics  
+- Users  
 
-**Tech Stack:**
-- Flutter (mobile)
-- Firebase / scalable backend
-- Clean architecture principles
+📈 Impact  
+- Automates stadium management  
+- Enables scalable digital operations  
 
-**Vision:**
-- Expand into a full ecosystem connecting:
-  - Stadium owners  
-  - Players  
-  - Teams  
-  - Communities  
+🎯 Vision  
+Stadiums → full digital businesses
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech
 
-### 📱 Mobile
-- Flutter • Dart  
-- Kotlin • Android  
-
-### ⚙️ Backend & Data
-- Firebase  
-- SQLite  
-- REST APIs  
-
-### 🛠 Tools
-- Git & GitHub  
-- Postman  
-- VS Code  
-- IntelliJ IDEA  
+**Mobile:** Flutter • Dart • Kotlin  
+**Backend:** Firebase • REST APIs  
+**Database:** SQLite  
+**Tools:** Git • Postman • VS Code • IntelliJ  
 
 ---
 
-## 📌 What I'm Working Towards
-
-- Building scalable startup products  
-- Mastering system design for mobile apps  
-- Creating products with real business impact  
-- Growing ArenaGo into a real SaaS platform  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nosirjonov-dev&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosirjonov-dev&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nosirjonov-dev&show_icons=true" />
 </p>
 
 ---
 
-## ⚡ Connect with Me
+## ⚡ Connect
 
 <p align="center">
-  <a href="https://github.com/nosirjonov-dev">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
   <a href="mailto:nosirjonov.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -114,9 +81,9 @@ I don’t just write code — I build systems that solve real problems.
 
 <div align="center">
 
-### 💭 Philosophy
+### 💭
 
-> "Code is temporary.  
-> Products are what build value."
+> Build products.  
+> Not just features.
 
 </div>
