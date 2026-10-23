@@ -80,12 +80,12 @@ Turn stadium management into a digital, scalable system
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://t.me/nosirjonov_v" target="_blank" style="text-decoration:none;border-bottom:none;">
+  <a href="https://t.me/nosirjonov23" target="_blank" style="text-decoration:none;border-bottom:none;">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   
   <!-- Personal / content -->
-  <a href="https://www.instagram.com/nosirjonov_v/" target="_blank" style="text-decoration:none;border-bottom:none;">
+  <a href="https://www.instagram.com/nosirjonov.23/" target="_blank" style="text-decoration:none;border-bottom:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
